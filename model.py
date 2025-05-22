@@ -1,8 +1,5 @@
 import torch
-from torch import optim
 import torch.nn as nn
-from torchvision import datasets
-import torchvision.transforms as transforms
 
 class LeNet(nn.Module):
     def __init__(self):
