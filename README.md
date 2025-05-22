@@ -1,14 +1,14 @@
 # Assessment5
 
-Objective:
+<b>Objective:</b>
 Build, train, evaluate, and deploy a deep learning model for classification or regression using PyTorch. 
 
-Dataset chosen: MNIST
+<b>Dataset chosen:</b> MNIST
 
-Step 1: Loading and normalising the dataset
-</br>Step 2: Creating a deep learning model using fully connected and convolutional layers
-</br>Step 3: Training and optimising the model (with plots of training and test losses and accuracy score)
-</br>Step 4: Saving the model
-</br>Step 5: Creating the confusion matrix to better understand the accuracy of the model
-</br>Step 6: Predicting labels for unseen images
+<b>Step 1:</b> Loading and normalising the dataset
+</br><b>Step 2:</b> Creating a deep learning model using fully connected and convolutional layers
+</br><b>Step 3:</b> Training and optimising the model (with plots of training and test losses and accuracy score)
+</br><b>Step 4:</b> Saving the model
+</br><b>Step 5:</b> Creating the confusion matrix to better understand the accuracy of the model
+</br><b>Step 6:</b> Predicting labels for unseen images
 
