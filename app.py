@@ -1,9 +1,7 @@
 from fastapi import FastAPI, File, UploadFile
 import torch
 import torchvision.transforms as transforms
-import matplotlib.pyplot as plt
 from PIL import Image
-from torchvision import datasets
 
 transform = transforms.Compose([
     transforms.Grayscale(),
